@@ -14,14 +14,15 @@ Summary: The Python 3.4 standard `ssl` module API implemented on top of pyOpenSS
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/backports.ssl-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.ssl-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/backports.ssl-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/backports.ssl-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports.ssl-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports-ssl-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/backports.ssl-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/backports.ssl-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.ssl/badges/version.svg)](https://anaconda.org/conda-forge/backports.ssl)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.ssl/badges/downloads.svg)](https://anaconda.org/conda-forge/backports.ssl)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-backports.ssl-green.svg)](https://anaconda.org/conda-forge/backports.ssl) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/backports.ssl.svg)](https://anaconda.org/conda-forge/backports.ssl) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/backports.ssl.svg)](https://anaconda.org/conda-forge/backports.ssl) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/backports.ssl.svg)](https://anaconda.org/conda-forge/backports.ssl) |
 
 Installing backports.ssl
 ========================
